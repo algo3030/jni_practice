@@ -3,5 +3,5 @@
 
 JNIEXPORT void JNICALL Java_space_algolab_JniClass_nativeMethod (JNIEnv *, jobject)
 {
-  printf("ちんちん\n");
+  printf("Hello JNI World\n");
 }
